@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lykke.AlgoStore.Common", "src\Lykke.AlgoStore.Common\Lykke.AlgoStore.Common.csproj", "{B0249721-FFA9-40A4-8103-490585F793AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.AlgoStore.Common.Tests", "tests\Lykke.AlgoStore.Common.Tests\Lykke.AlgoStore.Common.Tests.csproj", "{44B57373-A573-4AB3-A0B4-D2A1900EFADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0249721-FFA9-40A4-8103-490585F793AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0249721-FFA9-40A4-8103-490585F793AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0249721-FFA9-40A4-8103-490585F793AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0249721-FFA9-40A4-8103-490585F793AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B57373-A573-4AB3-A0B4-D2A1900EFADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B57373-A573-4AB3-A0B4-D2A1900EFADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B57373-A573-4AB3-A0B4-D2A1900EFADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B57373-A573-4AB3-A0B4-D2A1900EFADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8F4F13-0CFD-4384-A624-CE9DF24FF1E7}
+	EndGlobalSection
+EndGlobal
